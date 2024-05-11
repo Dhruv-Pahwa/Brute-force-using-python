@@ -1,5 +1,3 @@
-Certainly! Here's a short README file for your code:
-
 ---
 
 # Brute force
